@@ -12,3 +12,8 @@ $ brew tap Homebrew/bundle
 $ touch Brewfile
 ```
 
+## Installation with brew bundle
+
+```
+$ brew bundle
+```
