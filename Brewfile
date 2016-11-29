@@ -5,3 +5,8 @@ tap 'caskroom/cask'
 brew 'zsh'
 brew 'tmux'
 brew 'the_silver_searcher'
+
+## Browsers
+
+cask 'google-chrome'
+cask 'firefox'
