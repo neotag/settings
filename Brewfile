@@ -10,3 +10,7 @@ brew 'the_silver_searcher'
 
 cask 'google-chrome'
 cask 'firefox'
+
+## Video and Chats
+
+cask 'google-hangouts'
