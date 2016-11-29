@@ -33,6 +33,7 @@ cask 'charles'
 cask 'touchswitcher'
 cask 'macs-fan-control'
 cask 'google-drive'
+cask 'dropbox'
 cask 'sequel-pro'
 cask 'licecap'
 
