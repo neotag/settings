@@ -38,4 +38,6 @@ cask 'dropbox'
 cask 'sequel-pro'
 cask 'licecap'
 cask 'microsoft-office-2011'
+cask 'virtualbox'
+cask 'vmware-fusion'
 
