@@ -1,5 +1,6 @@
 cask_args appdir: '/Applications'
 tap 'caskroom/cask'
+tap 'caskroom/versions'
 
 ## Command Line Interfaces
 brew 'zsh'
@@ -36,4 +37,5 @@ cask 'google-drive'
 cask 'dropbox'
 cask 'sequel-pro'
 cask 'licecap'
+cask 'microsoft-office-2011'
 
