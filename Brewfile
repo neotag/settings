@@ -14,3 +14,7 @@ cask 'firefox'
 ## Video and Chats
 
 cask 'google-hangouts'
+
+## Mac App Store
+
+mas '1Password', id: 443987910
