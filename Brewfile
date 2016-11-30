@@ -4,6 +4,7 @@ tap 'caskroom/versions'
 
 ## Command Line Interfaces
 brew 'zsh'
+brew 'tig'
 brew 'tmux'
 brew 'the_silver_searcher'
 
