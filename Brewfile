@@ -1,5 +1,6 @@
 cask_args appdir: '/Applications'
 tap 'caskroom/cask'
+tap 'caskroom/versions'
 
 ## Command Line Interfaces
 brew 'zsh'
@@ -33,6 +34,12 @@ cask 'charles'
 cask 'touchswitcher'
 cask 'macs-fan-control'
 cask 'google-drive'
+cask 'dropbox'
 cask 'sequel-pro'
 cask 'licecap'
+cask 'microsoft-office-2011'
+cask 'virtualbox'
+cask 'vmware-fusion'
+cask 'hammerspoon'
+
 
