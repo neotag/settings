@@ -27,6 +27,10 @@ cask 'adobe-creative-cloud'
 cask 'adobe-photoshop-cc'
 cask 'flash-player'
 
+## Sketch
+
+cask 'sketch'
+
 ## Others
 
 cask 'vagrant'
