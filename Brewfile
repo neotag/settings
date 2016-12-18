@@ -23,8 +23,13 @@ mas '1Password', id: 443987910
 
 ## Adobe
 
-cask 'Caskroom/cask/adobe-creative-cloud'
-cask 'Caskroom/cask/adobe-photoshop-cc'
+cask 'adobe-creative-cloud'
+cask 'adobe-photoshop-cc'
+cask 'flash-player'
+
+## Sketch
+
+cask 'sketch'
 
 ## Others
 
@@ -42,5 +47,5 @@ cask 'microsoft-office-2011'
 cask 'virtualbox'
 cask 'vmware-fusion'
 cask 'hammerspoon'
-
+cask 'nvalt'
 
