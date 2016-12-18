@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+name = neotag
+email = harada@gaji.jp
+
+[core]
+	excludesfile = /Users/neotag/.gitignore_global
