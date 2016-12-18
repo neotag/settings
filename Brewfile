@@ -47,5 +47,5 @@ cask 'microsoft-office-2011'
 cask 'virtualbox'
 cask 'vmware-fusion'
 cask 'hammerspoon'
-
+cask 'nvalt'
 
