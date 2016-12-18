@@ -23,8 +23,8 @@ mas '1Password', id: 443987910
 
 ## Adobe
 
-cask 'Caskroom/cask/adobe-creative-cloud'
-cask 'Caskroom/cask/adobe-photoshop-cc'
+cask 'adobe-creative-cloud'
+cask 'adobe-photoshop-cc'
 
 ## Others
 
