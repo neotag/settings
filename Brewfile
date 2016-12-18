@@ -25,6 +25,7 @@ mas '1Password', id: 443987910
 
 cask 'adobe-creative-cloud'
 cask 'adobe-photoshop-cc'
+cask 'flash-player'
 
 ## Others
 
